@@ -2,7 +2,7 @@
   "name": "misc-services",
   "description": "Misc services for getting template, generating url with search params, returning precision length.",
   "authors": [
-  "ClearCode (http://clearcode.cc)",
+  "ClearCode (http://clearcode.cc)"
 ],
   "version": "1.0.0",
   "main": "utils.js",
