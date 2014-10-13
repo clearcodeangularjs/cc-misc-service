@@ -21,7 +21,7 @@
 */
 'use strict';
 
-angular.module('cc.misc.service')
+angular.module('cc.misc.service', [])
     .service('utils', ['$templateCache', '$http',
     function($templateCache, $http) {
 
