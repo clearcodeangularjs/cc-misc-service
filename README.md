@@ -11,7 +11,7 @@ This package consists of three util services.
 
 Installation
 --------------
-TODO
+``` bower install clearcodeangularjs/cc-misc-service --save ``
 
 
 Usage
