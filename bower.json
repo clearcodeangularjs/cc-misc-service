@@ -1,5 +1,5 @@
 {
-	"name": "misc-services",
+	"name": "cc-misc-service",
 	"description": "Misc services for getting template, generating url with search params, returning precision length.",
 	"authors": [
 		"ClearCode (http://clearcode.cc)"
